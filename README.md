@@ -15,7 +15,7 @@ Structured and modular code
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - C Programming
 - File Handling
 - Structures
@@ -23,10 +23,10 @@ Structured and modular code
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository:
-git clone https://github.com/YOUR_USERNAME/flight-reservation-system-c.git
+git clone https://github.com/Divya-n-reddy/flight-reservation-system-c.git
 
 2. Navigate to the project folder:
 cd flight-reservation-system-c
@@ -39,7 +39,7 @@ gcc main.c -o flight
 
 ---
 
-## 🔐 Admin Access
+## Admin Access
 Password:
 admin123
 
